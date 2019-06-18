@@ -94,9 +94,25 @@ article#main{
 	width:65%;
 	float: left;
 }
+article#about{
+	font-style: italic;
+
+}
 aside#services{
 	width:30%;
 	float:right;
+}
+article#contact{
+	float:left;
+	width:40%;
+}
+aside#contactPicture{
+	width:30%;
+	float:right;
+}
+form#contactUs{
+	width:40%;
+	float:left;
 }
 .dark{
 	background:#8C8C8C;
